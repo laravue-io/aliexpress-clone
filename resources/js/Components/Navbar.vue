@@ -23,23 +23,24 @@
                         </svg>
                         Account
                     </span>
-                    <div v-if="isAccountLinkHovered" @mouseleave="isAccountLinkHovered = false" class="absolute right-0 p-4 w-max h-max bg-gray-100 mt-3">
+                    <div v-if="isAccountLinkHovered" @mouseleave="isAccountLinkHovered = false" class="absolute right-0 w-max h-max p-4 bg-white border-2 border-gray-300 mt-3 z-50">
+                        <span class="text-base text-gray-500">Welcome to Aliexpress!</span>
                         <div class="flex space-x-2 py-2 border-b-2 border-gray-200">
-                            <button class="bg-red-500 text-white py-2 px-8 text-center font-bold rounded-sm">Join</button>
-                            <button class="bg-red-100 text-red-500 py-2 px-8 text-center font-bold rounded-sm">Sign in</button>
+                            <a href="/register" class="bg-red-500 text-white py-2 px-8 text-center font-bold rounded-sm">Join</a>
+                            <a href="/login" class="bg-red-100 text-red-500 py-2 px-8 text-center font-bold rounded-sm">Sign in</a>
                         </div>
-                        <ul class="my-3 text-sm">
+                        <ul class="my-3 text-sm text-gray-500 space-y-3">
                             <li>
-                                <a href="/">My Orders</a>
+                                <a href="/" class="hover:text-red-500">My Orders</a>
                             </li>
                             <li>
-                                <a href="/">My Wishlist</a>
+                                <a href="/" class="hover:text-red-500">My Wishlist</a>
                             </li>
                             <li>
-                                <a href="/">My Coupons</a>
+                                <a href="/" class="hover:text-red-500">My Coupons</a>
                             </li>
                             <li>
-                                <a href="/">Message center</a>
+                                <a href="/" class="hover:text-red-500">Message center</a>
                             </li>
                         </ul>
                     </div>
