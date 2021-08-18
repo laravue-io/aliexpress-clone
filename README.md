@@ -14,6 +14,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 ###Package usage
 - [laravel/jetstream](https://laravel.com)
 - [inertiajs/inertia-laravel](https://laravel.com)
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 
 ## Contributing
 
