@@ -1,3 +1,4 @@
+/.git/
 /node_modules
 /public/hot
 /public/storage
@@ -11,7 +12,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/.idea
-/.vscode
+.idea
+/public/css
+/public/js
 composer.lock
 package-lock.json
