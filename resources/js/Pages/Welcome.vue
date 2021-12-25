@@ -1,120 +1,163 @@
 <template>
-    <Header />
-    <div class="bg-gray-100 h-screen">
-        <!-- Hero section -->
-        <div class="w-full container px-64 py-6">
-            <!-- Categories section -->
-            <div class="bg-white p-4 rounded-xl w-1/4">
-                <p class="flex items-center">
-                    <CategoriesIcon class="w-6 h-6 mr-2" />
-                    Categories
-                </p>
-                <ul class="space-y-1 mt-4 text-sm cursor-pointer">
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <WomenClothesIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Woman's Fashion</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <TshirtIcon class="h-5 w-5 mr-2" />
-                        <a href="/">Men's Fashion</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <PhoneIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Phones & Telecommunications</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <ComputerIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Computer, Office & Security</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <CameraIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Consumer Electronics</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <JewelryIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Jewelry & Watches</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <HomeFurnitureIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Home, Pet & Appliances</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <BagIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Bags & Shoes</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <BabiesIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Toys , Kids & Babies</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <SportIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Outdoor Fun & Sports</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <BeautyIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Beauty, Health & Hair</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <AutomotiveIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Automobiles & Motorcycles</a>
-                    </li>
-                    <li class="flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1">
-                        <HomeToolsIcon class="h-6 w-6 mr-2" />
-                        <a href="/">Home Improvement & Tools</a>
-                    </li>
-                </ul>
-            </div>
+  <Header />
+  <div class="bg-gray-100 h-screen">
+    <!-- Hero section -->
+    <div
+      class="flex justify-between w-full space-x-4 max-w-screen-xl mx-auto py-6"
+    >
+      <!-- Categories section -->
+      <CategoriesMenu class="w-1/5" />
 
-            <!-- Slider section -->
-            <div class="w-2/4 bg-white"></div>
-
-            <!-- WelcomeProfile section -->
-            <div class="w-1/4 bg-white"></div>
+      <!-- Slider section -->
+      <div class="w-3/5 space-y-6">
+        <div class="space-x-6 font-bold pt-3">
+          <a href="#" class="hover:text-red-500">LIVE</a>
+          <a href="#" class="hover:text-red-500">Flash Deals</a>
+          <a href="#" class="hover:text-red-500">Stores You'll Love</a>
+          <a href="#" class="hover:text-red-500">New User Zone</a>
         </div>
+        <div>
+          <img
+            src="https://ae01.alicdn.com/kf/H963baeb18cf34790824e4b02e05f39abe.jpg_Q90.jpg_.webp"
+            alt=""
+            class="rounded-lg"
+          />
+        </div>
+        <div
+          class="
+            w-full
+            flex
+            items-center
+            space-x-8
+            px-6
+            h-64
+            bg-gradient-to-r
+            from-yellow-500
+            to-red-500
+            rounded-lg
+          "
+        >
+          <div class="w-1/3 space-y-8">
+            <div>
+              <h5 class="font-bold text-white">Welcome newcomers</h5>
+              <p class="text-white">Exculsive prices for new users: act now!</p>
+            </div>
+            <button class="bg-red-500 text-white py-4 px-2">
+              Get your coupon
+            </button>
+          </div>
+          <div class="flex w-2/3 space-x-1">
+            <div class="rounded-lg h-44 py-2 w-28 bg-white">
+              <img
+                src="https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp"
+                alt=""
+              />
+                <div class="mx-auto px-4 py-1">
+                    <p
+                  class="
+                  w-full
+                    font-bold
+                    text-white
+                    bg-red-500
+                    rounded-lg
+                    text-sm
+                    px-2
+                  "
+                >
+                  US $5.60
+                </p>
+                <p class="w-full text-gray-600 line-through text-sm font-medium">US $7.00</p>
+                </div>
+            </div>
+            <div class="rounded-lg h-44 py-2 w-28 bg-white">
+              <img
+                src="https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp"
+                alt=""
+              />
+                <div class="mx-auto px-4 py-1">
+                    <p
+                  class="
+                  w-full
+                    font-bold
+                    text-white
+                    bg-red-500
+                    rounded-lg
+                    text-sm
+                    px-2
+                  "
+                >
+                  US $5.60
+                </p>
+                <p class="w-full text-gray-600 line-through text-sm font-medium">US $7.00</p>
+                </div>
+            </div>
+            <div class="rounded-lg h-44 py-2 w-28 bg-white">
+              <img
+                src="https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp"
+                alt=""
+              />
+                <div class="mx-auto px-4 py-1">
+                    <p
+                  class="
+                  w-full
+                    font-bold
+                    text-white
+                    bg-red-500
+                    rounded-lg
+                    text-sm
+                    px-2
+                  "
+                >
+                  US $5.60
+                </p>
+                <p class="w-full text-gray-600 line-through text-sm font-medium">US $7.00</p>
+                </div>
+            </div>
+            <div class="rounded-lg h-44 py-2 w-28 bg-white">
+              <img
+                src="https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp"
+                alt=""
+              />
+                <div class="mx-auto px-4 py-1">
+                    <p
+                  class="
+                  w-full
+                    font-bold
+                    text-white
+                    bg-red-500
+                    rounded-lg
+                    text-sm
+                    px-2
+                  "
+                >
+                  US $5.60
+                </p>
+                <p class="w-full text-gray-600 line-through text-sm font-medium">US $7.00</p>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- WelcomeProfile section -->
+      <div class="w-1/5 bg-white"></div>
     </div>
+  </div>
 </template>
 
 <script>
+import Header from "../Components/Header";
+import CategoriesMenu from "../Components/CategoriesMenu";
 
-import Header from '../Components/Header'
-import CategoriesIcon from '../Components/Icons/Categories/CategoriesIcon'
-import WomenClothesIcon from '../Components/Icons/Categories/WomenClothesIcon'
-import TshirtIcon from '../Components/Icons/Categories/TshirtIcon'
-import PhoneIcon from '../Components/Icons/Categories/PhoneIcon'
-import ComputerIcon from '../Components/Icons/Categories/ComputerIcon'
-import CameraIcon from '../Components/Icons/Categories/CameraIcon'
-import JewelryIcon from '../Components/Icons/Categories/JewelryIcon'
-import HomeFurnitureIcon from '../Components/Icons/Categories/HomeFurnitureIcon'
-import BagIcon from '../Components/Icons/Categories/BagIcon'
-import BabiesIcon from '../Components/Icons/Categories/BabiesIcon'
-import SportIcon from '../Components/Icons/Categories/SportIcon'
-import BeautyIcon from '../Components/Icons/Categories/BeautyIcon'
-import AutomotiveIcon from '../Components/Icons/Categories/AutomotiveIcon'
-import HomeToolsIcon from '../Components/Icons/Categories/HomeToolsIcon'
+export default {
+  components: {
+    Header,
+    CategoriesMenu,
+  },
 
-    export default {
-        components: {
-            Header,
-            CategoriesIcon,
-            WomenClothesIcon,
-            TshirtIcon,
-            PhoneIcon,
-            ComputerIcon,
-            CameraIcon,
-            JewelryIcon,
-            HomeFurnitureIcon,
-            BagIcon,
-            BabiesIcon,
-            SportIcon,
-            BeautyIcon,
-            AutomotiveIcon,
-            HomeToolsIcon
-        },
-
-        props: {}
-    }
+  props: {},
+};
 </script>
 
 <style scoped>
-
 </style>

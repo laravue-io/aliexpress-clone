@@ -19019,6 +19019,66 @@ module.exports = {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js":
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js ***!
+  \********************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Components_Icons_Categories_CategoriesIcon__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Components/Icons/Categories/CategoriesIcon */ "./resources/js/Components/Icons/Categories/CategoriesIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_WomenClothesIcon__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Components/Icons/Categories/WomenClothesIcon */ "./resources/js/Components/Icons/Categories/WomenClothesIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_TshirtIcon__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Components/Icons/Categories/TshirtIcon */ "./resources/js/Components/Icons/Categories/TshirtIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_PhoneIcon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Components/Icons/Categories/PhoneIcon */ "./resources/js/Components/Icons/Categories/PhoneIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_ComputerIcon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Components/Icons/Categories/ComputerIcon */ "./resources/js/Components/Icons/Categories/ComputerIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_CameraIcon__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Components/Icons/Categories/CameraIcon */ "./resources/js/Components/Icons/Categories/CameraIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_JewelryIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Components/Icons/Categories/JewelryIcon */ "./resources/js/Components/Icons/Categories/JewelryIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_HomeFurnitureIcon__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Components/Icons/Categories/HomeFurnitureIcon */ "./resources/js/Components/Icons/Categories/HomeFurnitureIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_BagIcon__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Components/Icons/Categories/BagIcon */ "./resources/js/Components/Icons/Categories/BagIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_BabiesIcon__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../Components/Icons/Categories/BabiesIcon */ "./resources/js/Components/Icons/Categories/BabiesIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_SportIcon__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../Components/Icons/Categories/SportIcon */ "./resources/js/Components/Icons/Categories/SportIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_BeautyIcon__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../Components/Icons/Categories/BeautyIcon */ "./resources/js/Components/Icons/Categories/BeautyIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_AutomotiveIcon__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../Components/Icons/Categories/AutomotiveIcon */ "./resources/js/Components/Icons/Categories/AutomotiveIcon.vue");
+/* harmony import */ var _Components_Icons_Categories_HomeToolsIcon__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../Components/Icons/Categories/HomeToolsIcon */ "./resources/js/Components/Icons/Categories/HomeToolsIcon.vue");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    CategoriesIcon: _Components_Icons_Categories_CategoriesIcon__WEBPACK_IMPORTED_MODULE_0__.default,
+    WomenClothesIcon: _Components_Icons_Categories_WomenClothesIcon__WEBPACK_IMPORTED_MODULE_1__.default,
+    TshirtIcon: _Components_Icons_Categories_TshirtIcon__WEBPACK_IMPORTED_MODULE_2__.default,
+    PhoneIcon: _Components_Icons_Categories_PhoneIcon__WEBPACK_IMPORTED_MODULE_3__.default,
+    ComputerIcon: _Components_Icons_Categories_ComputerIcon__WEBPACK_IMPORTED_MODULE_4__.default,
+    CameraIcon: _Components_Icons_Categories_CameraIcon__WEBPACK_IMPORTED_MODULE_5__.default,
+    JewelryIcon: _Components_Icons_Categories_JewelryIcon__WEBPACK_IMPORTED_MODULE_6__.default,
+    HomeFurnitureIcon: _Components_Icons_Categories_HomeFurnitureIcon__WEBPACK_IMPORTED_MODULE_7__.default,
+    BagIcon: _Components_Icons_Categories_BagIcon__WEBPACK_IMPORTED_MODULE_8__.default,
+    BabiesIcon: _Components_Icons_Categories_BabiesIcon__WEBPACK_IMPORTED_MODULE_9__.default,
+    SportIcon: _Components_Icons_Categories_SportIcon__WEBPACK_IMPORTED_MODULE_10__.default,
+    BeautyIcon: _Components_Icons_Categories_BeautyIcon__WEBPACK_IMPORTED_MODULE_11__.default,
+    AutomotiveIcon: _Components_Icons_Categories_AutomotiveIcon__WEBPACK_IMPORTED_MODULE_12__.default,
+    HomeToolsIcon: _Components_Icons_Categories_HomeToolsIcon__WEBPACK_IMPORTED_MODULE_13__.default
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Header/CartComponent.vue?vue&type=script&lang=js":
 /*!**************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/Header/CartComponent.vue?vue&type=script&lang=js ***!
@@ -21421,55 +21481,233 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _Components_Header__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Components/Header */ "./resources/js/Components/Header/index.vue");
-/* harmony import */ var _Components_Icons_Categories_CategoriesIcon__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Components/Icons/Categories/CategoriesIcon */ "./resources/js/Components/Icons/Categories/CategoriesIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_WomenClothesIcon__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Components/Icons/Categories/WomenClothesIcon */ "./resources/js/Components/Icons/Categories/WomenClothesIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_TshirtIcon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Components/Icons/Categories/TshirtIcon */ "./resources/js/Components/Icons/Categories/TshirtIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_PhoneIcon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Components/Icons/Categories/PhoneIcon */ "./resources/js/Components/Icons/Categories/PhoneIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_ComputerIcon__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Components/Icons/Categories/ComputerIcon */ "./resources/js/Components/Icons/Categories/ComputerIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_CameraIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Components/Icons/Categories/CameraIcon */ "./resources/js/Components/Icons/Categories/CameraIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_JewelryIcon__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Components/Icons/Categories/JewelryIcon */ "./resources/js/Components/Icons/Categories/JewelryIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_HomeFurnitureIcon__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Components/Icons/Categories/HomeFurnitureIcon */ "./resources/js/Components/Icons/Categories/HomeFurnitureIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_BagIcon__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../Components/Icons/Categories/BagIcon */ "./resources/js/Components/Icons/Categories/BagIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_BabiesIcon__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../Components/Icons/Categories/BabiesIcon */ "./resources/js/Components/Icons/Categories/BabiesIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_SportIcon__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../Components/Icons/Categories/SportIcon */ "./resources/js/Components/Icons/Categories/SportIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_BeautyIcon__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../Components/Icons/Categories/BeautyIcon */ "./resources/js/Components/Icons/Categories/BeautyIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_AutomotiveIcon__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../Components/Icons/Categories/AutomotiveIcon */ "./resources/js/Components/Icons/Categories/AutomotiveIcon.vue");
-/* harmony import */ var _Components_Icons_Categories_HomeToolsIcon__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../Components/Icons/Categories/HomeToolsIcon */ "./resources/js/Components/Icons/Categories/HomeToolsIcon.vue");
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* harmony import */ var _Components_CategoriesMenu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Components/CategoriesMenu */ "./resources/js/Components/CategoriesMenu.vue");
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
     Header: _Components_Header__WEBPACK_IMPORTED_MODULE_0__.default,
-    CategoriesIcon: _Components_Icons_Categories_CategoriesIcon__WEBPACK_IMPORTED_MODULE_1__.default,
-    WomenClothesIcon: _Components_Icons_Categories_WomenClothesIcon__WEBPACK_IMPORTED_MODULE_2__.default,
-    TshirtIcon: _Components_Icons_Categories_TshirtIcon__WEBPACK_IMPORTED_MODULE_3__.default,
-    PhoneIcon: _Components_Icons_Categories_PhoneIcon__WEBPACK_IMPORTED_MODULE_4__.default,
-    ComputerIcon: _Components_Icons_Categories_ComputerIcon__WEBPACK_IMPORTED_MODULE_5__.default,
-    CameraIcon: _Components_Icons_Categories_CameraIcon__WEBPACK_IMPORTED_MODULE_6__.default,
-    JewelryIcon: _Components_Icons_Categories_JewelryIcon__WEBPACK_IMPORTED_MODULE_7__.default,
-    HomeFurnitureIcon: _Components_Icons_Categories_HomeFurnitureIcon__WEBPACK_IMPORTED_MODULE_8__.default,
-    BagIcon: _Components_Icons_Categories_BagIcon__WEBPACK_IMPORTED_MODULE_9__.default,
-    BabiesIcon: _Components_Icons_Categories_BabiesIcon__WEBPACK_IMPORTED_MODULE_10__.default,
-    SportIcon: _Components_Icons_Categories_SportIcon__WEBPACK_IMPORTED_MODULE_11__.default,
-    BeautyIcon: _Components_Icons_Categories_BeautyIcon__WEBPACK_IMPORTED_MODULE_12__.default,
-    AutomotiveIcon: _Components_Icons_Categories_AutomotiveIcon__WEBPACK_IMPORTED_MODULE_13__.default,
-    HomeToolsIcon: _Components_Icons_Categories_HomeToolsIcon__WEBPACK_IMPORTED_MODULE_14__.default
+    CategoriesMenu: _Components_CategoriesMenu__WEBPACK_IMPORTED_MODULE_1__.default
   },
   props: {}
 });
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4":
+/*!************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4 ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  "class": "bg-white py-4 rounded-xl"
+};
+var _hoisted_2 = {
+  "class": "flex items-center px-4"
+};
+
+var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Categories ");
+
+var _hoisted_4 = {
+  "class": "space-y-1 mt-2 text-sm cursor-pointer"
+};
+var _hoisted_5 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Woman's Fashion", -1
+/* HOISTED */
+);
+
+var _hoisted_7 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Men's Fashion", -1
+/* HOISTED */
+);
+
+var _hoisted_9 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Phones & Telecommunications", -1
+/* HOISTED */
+);
+
+var _hoisted_11 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Computer, Office & Security", -1
+/* HOISTED */
+);
+
+var _hoisted_13 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Consumer Electronics", -1
+/* HOISTED */
+);
+
+var _hoisted_15 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_16 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Jewelry & Watches", -1
+/* HOISTED */
+);
+
+var _hoisted_17 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Home, Pet & Appliances", -1
+/* HOISTED */
+);
+
+var _hoisted_19 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Bags & Shoes", -1
+/* HOISTED */
+);
+
+var _hoisted_21 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Toys , Kids & Babies", -1
+/* HOISTED */
+);
+
+var _hoisted_23 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Outdoor Fun & Sports", -1
+/* HOISTED */
+);
+
+var _hoisted_25 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Beauty, Health & Hair", -1
+/* HOISTED */
+);
+
+var _hoisted_27 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_28 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Automobiles & Motorcycles", -1
+/* HOISTED */
+);
+
+var _hoisted_29 = {
+  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-4"
+};
+
+var _hoisted_30 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/"
+}, "Home Improvement & Tools", -1
+/* HOISTED */
+);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_CategoriesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CategoriesIcon");
+
+  var _component_WomenClothesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("WomenClothesIcon");
+
+  var _component_TshirtIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("TshirtIcon");
+
+  var _component_PhoneIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("PhoneIcon");
+
+  var _component_ComputerIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("ComputerIcon");
+
+  var _component_CameraIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CameraIcon");
+
+  var _component_JewelryIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("JewelryIcon");
+
+  var _component_HomeFurnitureIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("HomeFurnitureIcon");
+
+  var _component_BagIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BagIcon");
+
+  var _component_BabiesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BabiesIcon");
+
+  var _component_SportIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("SportIcon");
+
+  var _component_BeautyIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BeautyIcon");
+
+  var _component_AutomotiveIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("AutomotiveIcon");
+
+  var _component_HomeToolsIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("HomeToolsIcon");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CategoriesIcon, {
+    "class": "w-6 h-6 mr-2"
+  }), _hoisted_3]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_WomenClothesIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_6]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_TshirtIcon, {
+    "class": "h-5 w-5 mr-2"
+  }), _hoisted_8]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_PhoneIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ComputerIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_12]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CameraIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_14]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_JewelryIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_16]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_HomeFurnitureIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_18]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BagIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_20]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_21, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BabiesIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_22]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_23, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_SportIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_24]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BeautyIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_26]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_AutomotiveIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_28]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_29, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_HomeToolsIcon, {
+    "class": "h-6 w-6 mr-2"
+  }), _hoisted_30])])]);
+}
 
 /***/ }),
 
@@ -26852,158 +27090,13 @@ var _hoisted_1 = {
   "class": "bg-gray-100 h-screen"
 };
 var _hoisted_2 = {
-  "class": "w-full container px-64 py-6"
-};
-var _hoisted_3 = {
-  "class": "bg-white p-4 rounded-xl w-1/4"
-};
-var _hoisted_4 = {
-  "class": "flex items-center"
+  "class": "flex justify-between w-full space-x-4 max-w-screen-xl mx-auto py-6"
 };
 
-var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Categories ");
+var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-3/5 space-y-6\"><div class=\"space-x-6 font-bold pt-3\"><a href=\"#\" class=\"hover:text-red-500\">LIVE</a><a href=\"#\" class=\"hover:text-red-500\">Flash Deals</a><a href=\"#\" class=\"hover:text-red-500\">Stores You&#39;ll Love</a><a href=\"#\" class=\"hover:text-red-500\">New User Zone</a></div><div><img src=\"https://ae01.alicdn.com/kf/H963baeb18cf34790824e4b02e05f39abe.jpg_Q90.jpg_.webp\" alt=\"\" class=\"rounded-lg\"></div><div class=\"\n            w-full\n            flex\n            items-center\n            space-x-8\n            px-6\n            h-64\n            bg-gradient-to-r\n            from-yellow-500\n            to-red-500\n            rounded-lg\n          \"><div class=\"w-1/3 space-y-8\"><div><h5 class=\"font-bold text-white\">Welcome newcomers</h5><p class=\"text-white\">Exculsive prices for new users: act now!</p></div><button class=\"bg-red-500 text-white py-4 px-2\"> Get your coupon </button></div><div class=\"flex w-2/3 space-x-1\"><div class=\"rounded-lg h-44 py-2 w-28 bg-white\"><img src=\"https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp\" alt=\"\"><div class=\"mx-auto px-4 py-1\"><p class=\"\n                  w-full\n                    font-bold\n                    text-white\n                    bg-red-500\n                    rounded-lg\n                    text-sm\n                    px-2\n                  \"> US $5.60 </p><p class=\"w-full text-gray-600 line-through text-sm font-medium\">US $7.00</p></div></div><div class=\"rounded-lg h-44 py-2 w-28 bg-white\"><img src=\"https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp\" alt=\"\"><div class=\"mx-auto px-4 py-1\"><p class=\"\n                  w-full\n                    font-bold\n                    text-white\n                    bg-red-500\n                    rounded-lg\n                    text-sm\n                    px-2\n                  \"> US $5.60 </p><p class=\"w-full text-gray-600 line-through text-sm font-medium\">US $7.00</p></div></div><div class=\"rounded-lg h-44 py-2 w-28 bg-white\"><img src=\"https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp\" alt=\"\"><div class=\"mx-auto px-4 py-1\"><p class=\"\n                  w-full\n                    font-bold\n                    text-white\n                    bg-red-500\n                    rounded-lg\n                    text-sm\n                    px-2\n                  \"> US $5.60 </p><p class=\"w-full text-gray-600 line-through text-sm font-medium\">US $7.00</p></div></div><div class=\"rounded-lg h-44 py-2 w-28 bg-white\"><img src=\"https://ae04.alicdn.com/kf/Hce51e7ac756f405ba3c6830ed84d995ef.jpg_120x120Q90.jpg_.webp\" alt=\"\"><div class=\"mx-auto px-4 py-1\"><p class=\"\n                  w-full\n                    font-bold\n                    text-white\n                    bg-red-500\n                    rounded-lg\n                    text-sm\n                    px-2\n                  \"> US $5.60 </p><p class=\"w-full text-gray-600 line-through text-sm font-medium\">US $7.00</p></div></div></div></div></div>", 1);
 
-var _hoisted_6 = {
-  "class": "space-y-1 mt-4 text-sm cursor-pointer"
-};
-var _hoisted_7 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Woman's Fashion", -1
-/* HOISTED */
-);
-
-var _hoisted_9 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Men's Fashion", -1
-/* HOISTED */
-);
-
-var _hoisted_11 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Phones & Telecommunications", -1
-/* HOISTED */
-);
-
-var _hoisted_13 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Computer, Office & Security", -1
-/* HOISTED */
-);
-
-var _hoisted_15 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_16 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Consumer Electronics", -1
-/* HOISTED */
-);
-
-var _hoisted_17 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Jewelry & Watches", -1
-/* HOISTED */
-);
-
-var _hoisted_19 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Home, Pet & Appliances", -1
-/* HOISTED */
-);
-
-var _hoisted_21 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_22 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Bags & Shoes", -1
-/* HOISTED */
-);
-
-var _hoisted_23 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_24 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Toys , Kids & Babies", -1
-/* HOISTED */
-);
-
-var _hoisted_25 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_26 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Outdoor Fun & Sports", -1
-/* HOISTED */
-);
-
-var _hoisted_27 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_28 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Beauty, Health & Hair", -1
-/* HOISTED */
-);
-
-var _hoisted_29 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_30 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Automobiles & Motorcycles", -1
-/* HOISTED */
-);
-
-var _hoisted_31 = {
-  "class": "flex items-center hover:text-red-500 hover:shadow-lg py-2 px-1"
-};
-
-var _hoisted_32 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
-  href: "/"
-}, "Home Improvement & Tools", -1
-/* HOISTED */
-);
-
-var _hoisted_33 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "w-2/4 bg-white"
-}, null, -1
-/* HOISTED */
-);
-
-var _hoisted_34 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "w-1/4 bg-white"
+var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "w-1/5 bg-white"
 }, null, -1
 /* HOISTED */
 );
@@ -27011,63 +27104,11 @@ var _hoisted_34 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Header = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Header");
 
-  var _component_CategoriesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CategoriesIcon");
+  var _component_CategoriesMenu = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CategoriesMenu");
 
-  var _component_WomenClothesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("WomenClothesIcon");
-
-  var _component_TshirtIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("TshirtIcon");
-
-  var _component_PhoneIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("PhoneIcon");
-
-  var _component_ComputerIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("ComputerIcon");
-
-  var _component_CameraIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("CameraIcon");
-
-  var _component_JewelryIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("JewelryIcon");
-
-  var _component_HomeFurnitureIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("HomeFurnitureIcon");
-
-  var _component_BagIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BagIcon");
-
-  var _component_BabiesIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BabiesIcon");
-
-  var _component_SportIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("SportIcon");
-
-  var _component_BeautyIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("BeautyIcon");
-
-  var _component_AutomotiveIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("AutomotiveIcon");
-
-  var _component_HomeToolsIcon = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("HomeToolsIcon");
-
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Header), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Hero section "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Categories section "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CategoriesIcon, {
-    "class": "w-6 h-6 mr-2"
-  }), _hoisted_5]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_WomenClothesIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_8]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_TshirtIcon, {
-    "class": "h-5 w-5 mr-2"
-  }), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_PhoneIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_12]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ComputerIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_14]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_15, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CameraIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_16]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_17, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_JewelryIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_18]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_HomeFurnitureIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_20]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_21, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BagIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_22]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_23, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BabiesIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_24]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_SportIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_26]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_27, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BeautyIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_28]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_29, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_AutomotiveIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_30]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_31, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_HomeToolsIcon, {
-    "class": "h-6 w-6 mr-2"
-  }), _hoisted_32])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Slider section "), _hoisted_33, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" WelcomeProfile section "), _hoisted_34])])], 64
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Header), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Hero section "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Categories section "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CategoriesMenu, {
+    "class": "w-1/5"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Slider section "), _hoisted_3, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" WelcomeProfile section "), _hoisted_4])])], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -50923,6 +50964,32 @@ module.exports = function getSideChannel() {
 
 /***/ }),
 
+/***/ "./resources/js/Components/CategoriesMenu.vue":
+/*!****************************************************!*\
+  !*** ./resources/js/Components/CategoriesMenu.vue ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _CategoriesMenu_vue_vue_type_template_id_3ec211b4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./CategoriesMenu.vue?vue&type=template&id=3ec211b4 */ "./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4");
+/* harmony import */ var _CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CategoriesMenu.vue?vue&type=script&lang=js */ "./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js");
+
+
+
+_CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.render = _CategoriesMenu_vue_vue_type_template_id_3ec211b4__WEBPACK_IMPORTED_MODULE_0__.render
+/* hot reload */
+if (false) {}
+
+_CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.__file = "resources/js/Components/CategoriesMenu.vue"
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default);
+
+/***/ }),
+
 /***/ "./resources/js/Components/Header/CartComponent.vue":
 /*!**********************************************************!*\
   !*** ./resources/js/Components/Header/CartComponent.vue ***!
@@ -52731,6 +52798,22 @@ _Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__.default.__file
 
 /***/ }),
 
+/***/ "./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js":
+/*!****************************************************************************!*\
+  !*** ./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__.default)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoriesMenu_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoriesMenu.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/Components/Header/CartComponent.vue?vue&type=script&lang=js":
 /*!**********************************************************************************!*\
   !*** ./resources/js/Components/Header/CartComponent.vue?vue&type=script&lang=js ***!
@@ -53752,6 +53835,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Welcome_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Welcome.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Welcome.vue?vue&type=script&lang=js");
  
+
+/***/ }),
+
+/***/ "./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4":
+/*!**********************************************************************************!*\
+  !*** ./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4 ***!
+  \**********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoriesMenu_vue_vue_type_template_id_3ec211b4__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_CategoriesMenu_vue_vue_type_template_id_3ec211b4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./CategoriesMenu.vue?vue&type=template&id=3ec211b4 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Components/CategoriesMenu.vue?vue&type=template&id=3ec211b4");
+
 
 /***/ }),
 
